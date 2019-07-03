@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "266118301766",
+    "firebase_url": "https://chatapptry3.firebaseio.com",
+    "project_id": "chatapptry3",
+    "storage_bucket": "chatapptry3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266118301766:android:ecde022bacfef438",
+        "android_client_info": {
+          "package_name": "com.swapnilyadavchatapptry2.flashchatnewfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266118301766-usa3tchose6pvj97qrtgn6mevou96jn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAICc4zq7Y26RQEIXY9UNXF5Tp9LGVHVUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266118301766-usa3tchose6pvj97qrtgn6mevou96jn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
